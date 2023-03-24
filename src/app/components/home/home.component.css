@@ -1,0 +1,34 @@
+img {
+  width: 15rem !important;
+}
+
+.home {
+  background-color: #1abc9c !important;
+}
+
+.mainHead {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  color: #fff;
+  margin-top: 15px;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.iconContainer {
+  padding-top: 20px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+}
+.mLine {
+  width: 7rem;
+  background-color: #fff;
+  height: 5px;
+  
+}
+
+.fa-star {
+  color: #fff;
+  font-size: 30px;
+}

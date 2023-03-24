@@ -1,0 +1,55 @@
+.sHEad p {
+  color: #2c3e50;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.mLine {
+  width: 7rem;
+  background-color: #2c3e50;
+  height: 5px;
+}
+
+.fa-star {
+  color: #2c3e50;
+  font-size: 30px;
+}
+
+input,
+textarea {
+  border: none !important;
+  font-size: 1.5em !important;
+}
+
+.col-md-8 {
+  position: relative;
+  border-bottom: 1px solid #e9ecef;
+  margin-bottom: 15px;
+}
+
+textarea,
+.form-control:focus input {
+  color: #212529;
+  background-color: #fff !important;
+  border-color: #fff !important;
+  outline: 0;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+  padding: 10px 15px;
+  font-size: 1.25rem;
+  width: fit-content !important;
+}
+
+
+
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+    color: #fff;
+    background-color :#a4d9ce !important;
+    border-color: #b8e3da !important;
+}

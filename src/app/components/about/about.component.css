@@ -1,0 +1,28 @@
+section {
+  background-color: rgba(26, 188, 156, 0.9);
+}
+.sHEad p {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.mLine {
+  width: 7rem;
+  background-color: #fff;
+  height: 4px;
+}
+
+.fa-star {
+  color: #fff;
+  font-size: 30px;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-top: 15px;
+  margin-bottom: 5rem;
+  color: #fff;
+  font-weight: 400;
+}
